@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyBank</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="amount_hint">Please enter an amount</string>
+    <string name="deposit">DEPOSIT</string>
+    <string name="withdraw">WITHDRAW</string>
+    <string name="balance_placeholder">Your Account\'s Balance</string>
+</resources>
